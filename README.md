@@ -216,9 +216,19 @@ For open source projects:
 * you are, of course, invited to contribute to any open source project at any time!
 * other opportunities may be available with the respective open source project directly, e.g., mentoring.
 
+**No projects are currently open for application**
+
+# 2025 Project list - applications closed
+
+**Previous projects are listed below for reference.**
+
+**Please do not apply - these stipends no longer accept applications.**
+
 ## Applied projects
 
 ### **AI-on-Demand Platform and OpenML**
+
+**APPLICATIONS CLOSED**
 
 **The open AI hubs where models, benchmarks, and users connect.**
 
@@ -252,15 +262,6 @@ The project is focusing on:
 * Hub: German Center for Open Source AI
 * Sponsor: EU Horizon Research and Innovation Programme, via AIoD project
 * T&C: pro-rated stipend disbursed by German Center for Open Source AI
-
-
-# 2025 Project list - applications closed
-
-**Previous projects are listed below for reference.**
-
-**Please do not apply - these stipends no longer accept applications.**
-
-## Applied projects
 
 ### **Electrolux - Causal learning for time series**
 
