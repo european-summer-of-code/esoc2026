@@ -80,17 +80,17 @@ Fill out our open source project onboarding form (link tba) to join!
 
 Currently affiliated projects:
 
-* `pixi`
-* `pgmpy`
-* `pykalman`
-* `pytorch-forecasting`
-* `rattler`
-* `scikit-base`
-* `scikit-learn`
-* `skore`
-* `skpro`
-* `skrub`
-* `sktime`
+* [`pixi`](https://github.com/prefix-dev/pixi)
+* [`pgmpy`](https://github.com/pgmpy/pgmpy)
+* [`pykalman`](https://github.com/pykalman/pykalman)
+* [`pytorch-forecasting`](https://github.com/sktime/pytorch-forecasting)
+* [`rattler`](https://github.com/prefix-dev/rattler-build)
+* [`scikit-base`](https://github.com/sktime/skbase)
+* [`scikit-learn`](https://github.com/scikit-learn/scikit-learn)
+* [`skore`](https://github.com/probabl-ai/skore)
+* [`skpro`](https://github.com/sktime/skpro)
+* [`skrub`](https://github.com/skrub-data/skrub)
+* [`sktime`](https://github.com/sktime/sktime)
 
 ##### Incubating
 
