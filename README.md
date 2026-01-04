@@ -97,18 +97,33 @@ Currently affiliated projects:
 
 ## Timelines 2026
 
-2026 projects will be released in two larger batches, and on a rolling basis thereafter.
+2026 projects will be released in two larger batches, on Feb 18 and Mar 19, and on a rolling basis thereafter.
 
-Timelines for the two batches are as follows.
+**An information event for applicants and interested organizations will take place on January 30, 11-14 UTC.**
 
-### Batch 1
+Timelines for the two batches are below.
+
+### Jan 30 - Information event
+
+**The 2026 ESoC information event sponsored by the AI-on-Demand Platform project, the European vision for an open source AI platform.**
+
+The event will feature:
+
+* general information on the programme
+* applicant guide and Q&A
+* organization and sponsor guide and Q&A
+* advice from previous year's mentors and successful applicants
+
+Location: [AIoD discord, events channel](https://discord.gg/hE5rYxtV)
+
+### Feb 18 - Batch 1
 
 - February 18, 18:00 (UTC). Applications open.
 - March 11, 18:00 (UTC). Applications must be submitted by this deadline.
 - Applicant evaluation, reviews, interviews
 - April 15 - Projects start
 
-### Batch 2
+### Mar 19 - Batch 2
 
 - March 19, 18:00 (UTC). Applications open.
 - April 9, 18:00 (UTC). Applications must be submitted by this deadline.
