@@ -73,6 +73,8 @@ Fill out our open source [project onboarding form](https://forms.office.com/e/SY
 
 Currently affiliated projects:
 
+* [AI-on-Demand](https://github.com/aiondemand)
+* [`openML`](https://github.com/openml)
 * [`pixi`](https://github.com/prefix-dev/pixi)
 * [`pgmpy`](https://github.com/pgmpy/pgmpy)
 * [`pykalman`](https://github.com/pykalman/pykalman)
