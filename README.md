@@ -228,4 +228,5 @@ Some examples are [in the project list below](https://github.com/european-summer
 
 To be announced.
 
-First batch of projects announced March 
+* First batch of projects announced February 18
+* Second batch of projects announced March 19
