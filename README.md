@@ -1,31 +1,26 @@
-# European Summer of Code 2025 - Information and Projects
+# European Summer of Code 2026 - Information and Projects
 
-This page contains general information on European Summer of Code 2025:
+This page contains general information on European Summer of Code 2026:
 
 * European Summer of Code: background and org structure
-* For applicants: how to apply, list of projects 2025
+* For applicants: how to apply, list of projects 2026
 * For projects: how to join, timelines
 
 [ESoC webpage](https://www.esoc.dev) - [ESoC on LinkedIn](https://www.linkedin.com/company/european-summer-of-code)
 
+Projects from previous years: [2025](https://github.com/european-summer-of-code/esoc2025/tree/main/esoc2025)
+
 ## Changelog
 
-* **2025-11-14: New Project release!**
-* **2025-05-22: New Project release!**
-* **2025-05-16: Start of rolling basis projects**
-* **2025-04-29: Batch 3 projects released**
-* **2025-04-28: New Batch 3 projects release date**
-* **2025-04-10: Batch 2 projects released!**
-* **2025-03-27: Applicant Guide, Sponsor Guide published**
-* **2025-03-27: Early Bird Batch of Projects released!**
+* **2026-01-05: Applicant Guide, Sponsor Guide 2026 published**
 
 ## Table of contents
 
 - [Information on European Summer of Code](https://github.com/european-summer-of-code/esoc2025/tree/main#information-on-european-summer-of-code)
+- [Timelines 2026](https://github.com/european-summer-of-code/esoc2025/tree/main#timelines-2026)
 - [Applicant Guide](https://github.com/european-summer-of-code/esoc2025/tree/main#applicant-guide)
 - [Sponsor and Project Guide](https://github.com/european-summer-of-code/esoc2025/tree/main#project-and-sponsor-guide)
-- [2025 Project List - Applied Projects](https://github.com/european-summer-of-code/esoc2025/tree/main#applied-projects)
-- [2025 Project List - Open Source Projects](https://github.com/european-summer-of-code/esoc2025/tree/main#open-source-projects)
+- [2026 Project List - to be announced February 18](https://github.com/european-summer-of-code/esoc2025/tree/main#2026-project-list)
 
 
 ## Information on European Summer of Code
@@ -74,9 +69,7 @@ We are actively looking to expand our network of affiliated open source projects
 Projects may affiliate with one of our hubs for streamlined operational integration
 and funding opportunities.
 
-Fill out our open source project onboarding form (link tba) to join!
-
-(While form unavailable: [get in touch on LinkedIn](https://www.linkedin.com/company/european-summer-of-code).)
+Fill out our open source [project onboarding form](https://forms.office.com/e/SYZhwAUShs) to join!
 
 Currently affiliated projects:
 
@@ -100,13 +93,35 @@ Currently affiliated projects:
 * `prophetverse`
 
 
+## Timelines 2026
+
+2026 projects will be released in two larger batches, and on a rolling basis thereafter.
+
+Timelines for the two batches are as follows.
+
+### Batch 1
+
+- February 18, 18:00 (UTC). Applications open.
+- March 11, 18:00 (UTC). Applications must be submitted by this deadline.
+- Applicant evaluation, reviews, interviews
+- April 15 - Projects start
+
+### Batch 2
+
+- March 19, 18:00 (UTC). Applications open.
+- April 9, 18:00 (UTC). Applications must be submitted by this deadline.
+- Applicant evaluation, reviews, interviews
+- May 15 - Projects start
+
+
 ## Applicant guide
 
 ### Projects
 
-* 2025 projects are released on a rolling basis.
+* larger batches of 2026 projects will be released on February 18 and March 19.
+* Individual 2026 projects are also released on a rolling basis.
 * projects have their own timelines and may come with their own terms of conditions
-* project specifics are listed in the project card, in the [list of released projects below](https://github.com/european-summer-of-code/esoc2025#2025-project-list)
+* project specifics are listed in the project card, in the [list of released projects below](https://github.com/european-summer-of-code/esoc2025#2026-project-list)
 
 ### Application process
 
@@ -209,322 +224,8 @@ Project cards should include:
 Some examples are [in the project list below](https://github.com/european-summer-of-code/esoc2025#2025-project-list).
 
 
-# 2025 Project list - applications open
+# 2026 Project list
 
-For open source projects:
+To be announced.
 
-* you are, of course, invited to contribute to any open source project at any time!
-* other opportunities may be available with the respective open source project directly, e.g., mentoring.
-
-**No projects are currently open for application**
-
-# 2025 Project list - applications closed
-
-**Previous projects are listed below for reference.**
-
-**Please do not apply - these stipends no longer accept applications.**
-
-## Applied projects
-
-### **AI-on-Demand Platform and OpenML**
-
-**APPLICATIONS CLOSED**
-
-**The open AI hubs where models, benchmarks, and users connect.**
-
-Contribute to build the European AI-on-Demand Platform using `openml` - the open hubs for AI models, benchmarks, and projects.
-Help create the open, public controlled platform to share models and results, and increase interoperability with the most popular machine learning and AI packages!
-
-##### About the AI-on-Demand Platform and OpenML
-
-The AI-on-Demand Platform is Europe's ambition to enable sharing of AI artefacts - models, weights, benchmarks, services - with anyone and everyone.
-
-Recently launched, it uses `openml` as one of its core backends to serve machine learning models and experiments.
-`openml` is an open-source project backed by an active community of researchers and developers.
-
-[openML GitHub](https://github.com/openml/OpenML) · [AIoD platform](https://aiod.eu/media-hub/ai-on-demand-platform-expands-to-accelerate-european-ai-innovation-across-research-and-industry/)
-
-##### 2025 ESoC projects - hub: GC.OS
-
-Up to 5 stipends are available in collaboration with the German Center for Open Source AI ([discord](https://discord.gg/7uKdHfdcJG)).
-The project is focusing on:
-
-* improving model sharing ability via `openml-python`
-* improving user experience of the model catalogue in AIoD and openML
-* extending benchmarking features
-* extending integration with model artefacts in the wider python landscape
-
-**HOW TO APPLY:** follow the [GC.OS applied project application guide](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/gcos-esoc2025.md). **Also** ensure you have made make at least one substantial pull request in 2025 (prior to application deadline) to one of the following packages:
-
-`openml` (including sub-repos), `scikit-learn`, `huggingface` (including sub-repos), `sktime`, `skpro`, `scikit-base`, `hyperactive`
-
-* Deadline: Nov 28, 18:00 UTC
-* Hub: German Center for Open Source AI
-* Sponsor: EU Horizon Research and Innovation Programme, via AIoD project
-* T&C: pro-rated stipend disbursed by German Center for Open Source AI
-
-### **Electrolux - Causal learning for time series**
-
-**APPLICATIONS CLOSED**
-
-Build the open source AI landscape for causal AI in time series, with applications across supply chain management and retail!
-
-##### Project overview ([link to detail info sheet](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/electrolux.md))
-
-Causal time series models are central to many industry grade use cases in production, retail, and supply chain.
-
-Join Electrolux and the German Center for Open Source AI to start building an interoperable, open-source ecosystem of causal tools for forecasting and structure identification - in collaboration with `pgmpy` and `sktime`.
-
-#### About Electrolux
-
-[Electrolux Group](https://www.electrolux.com) is a leading global appliance company. Products include major appliances and vacuum cleaners intended for home consumer use.
-
-Within Electrolux Group, the AI portfolio includes use cases like prescriptive marketing, production optimization, and dynamic pricing.
-
-**HOW TO APPLY:** follow the [GC.OS applied project application guide](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/gcos-esoc2025.md). **Also** make at least one substantial pull request to `pgmpy`, `sktime`, or - optimally but not necessarily - both.
-
-* Deadline: June 12, 18:00 UTC
-* Hub: German Center for Open Source AI
-* Sponsor: Electrolux
-* T&C: pro-rated stipend disbursed by German Center of Open Source AI.
-
-### **open source AI for drug discovery**
-
-**APPLICATIONS CLOSED**
-
-Build open source AI for drug discovery, accelerating aptamer design for diagnostic and medical applications!
-Sponsored by German engineering services provider ecoSPECS.
-
-##### Project overview ([link to detail info sheet](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/aptamer.md))
-
-Aptamers are highly specific biomolecules, which can pave the way for individualised diagnostics and therapy, allowing personalized treatment of various diseases like cancer, infections or autoimmune disorder. Classically done through in-vitro (lab) experiments, AI-driven in-silico approaches have seen promising advances, fuelled by the success of AlphaFold.
-
-Join ecoSPECS and the German Center for Open Source AI to start building an open source ecosystem with reusable AI software tooling, interoperable standards, and data benchmarks!
-
-##### About ecoSPECS
-
-[ecoSPECS](https://ecospecs.de/en/) is a German engineering service provider, specializing in services such as qualification, validation, consulting, training, and project planning across various industries, with a focus on pharmaceuticals, engineering, and food production.
-
-**HOW TO APPLY:** follow the [GC.OS applied project application guide](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/gcos-esoc2025.md)
-
-* Deadline: May 14, 18:00 UTC
-* Hub: German Center for Open Source AI
-* Sponsor: ecoSPECS
-* T&C: pro-rated stipend disbursed by German Center of Open Source AI.
-
-
-### **ecoSPECS - AI for biotechnological cleanroom design**
-
-**APPLICATIONS CLOSED**
-
-Build AI for design and equipment qualification of cleanrooms for biotech and pharmacological applications! Work with German engineering services provider ecoSPECS to fundamentally accelerate qualification processes in drug development, production, and monitoring worldwide.
-
-##### Project overview ([link to detail info sheet](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/ecospecs.md))
-
-Cleanroom design for biotech applications involves numerous "boilerplate steps". For instance, creating documentation in pre-specified format, particularly for identifying design and quality requirements within user specifications.
-
-Although the design process is expert-driven, significant amount of formulaic editorial work is required. AI could allow experts to focus on complex design tasks, rather than spending time on boilerplate. This would lead to significant acceleration and cost savings in the availability of biotechnological and pharmaceutical processes, systems, and equipment.
-
-##### About ecoSPECS
-
-[ecoSPECS](https://ecospecs.de/en/) is a German engineering service provider, specializing in services such as qualification, validation, consulting, training, and project planning across various industries, with a focus on pharmaceuticals, engineering, and food production.
-
-**HOW TO APPLY:** follow the [GC.OS applied project application guide](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/gcos-esoc2025.md)
-
-* Deadline: April 9, 18:00 UTC
-* Hub: German Center for Open Source AI
-* Sponsor: ecoSPECS
-* T&C: pro-rated stipend disbursed by German Center of Open Source AI. Data sharing agreement required.
-
-
-## Open Source projects
-
-### **pgmpy**
-
-**APPLICATIONS CLOSED**
-
-**The framework for causal inference, causal structure learning, and causal simulation.**
-
-Contribute to `pgmpy` - the causal learning package! Help implement new types of causal models, and increase interoperability of, and within, the package!
-
-##### About pgmpy
-
-`pgmpy` is an open-source project backed by an active community of researchers and developers.
-It is the major causal modelling package not affiliated with a single commercial entity, with a distributed user and maintainer base.
-
-[GitHub repo](https://github.com/pgmpy/pgmpy) · [Discord](https://discord.gg/DRkdKaumBs) · [Documentation](https://pgmpy.org/)
-
-##### 2025 ESoC projects - hub: GC.OS
-
-Multiple projects are available: [ESoC projects 2025](https://github.com/pgmpy/pgmpy/wiki/ESoC-2025), [mentored projects 2025](https://github.com/pgmpy/pgmpy/wiki/Mentored-Projects) - you can also suggest your own project, by opening an issue.
-
-**HOW TO APPLY:** mention `pgmpy` as an interest on your [ESoC application](https://forms.office.com/e/ArWLD0DqVv) (you can update this if you already applied).
-Then, make a pull request on a good first issue by May 14. You will be contacted with further details by the `pgmpy` team.
-
-* Deadline: May 14, 18:00 UTC
-* Hub & Sponsor: German Center for Open Source AI
-* T&C: pro-rated stipend disbursed by German Center for Open Source AI
-
----
-
-### **skore**
-
-**APPLICATIONS CLOSED**
-
-**Elevate ML Development with Built-in Recommended Practices**
-
-Contribute to `skore`, the `scikit-learn` sidekick! `skore` is the Python library designed to enhance ML development by diagnosing methodological errors, while also providing automated evaluation tools that generate reports with plots, and metrics.
-
-*Help us improve data visualization in skore by implementing more displays, a Plotly display backend and providing access to underlying display data.*
-
-##### About skore & probabl
-
-Probabl delivers universal technology enabling data scientists and teams to make the most of their data, leveraging the best practice in machine learning and artificial intelligence.
-
-Probabl is a spinoff from the Inria research lab and co-founded by experienced tech entrepreneurs and core-developers of `scikit-learn`. Probabl's core mission is to develop and maintain commons for data science.
-
-[GitHub repo](https://github.com/probabl-ai/skore) · [Discord](https://discord.probabl.ai) · [Documentation](https://skore.probabl.ai)
-
-**HOW TO APPLY:** mention `sklearn` or `skore` as an interest on your [ESoC application](https://forms.office.com/e/ArWLD0DqVv) (you can update this if you already applied).
-Then, make a pull request on a good first issue by April 26. You will be contacted with further details by the `skore` team.
-
-* Deadline: April 26, 18:00 UTC
-* Hub & Sponsor: probabl
-* T&C: internship with probabl
-
----
-
-### **pixi**
-
-**APPLICATIONS CLOSED**
-
-**Package Management Made Easy**
-
-`pixi` is a cross-platform, multi-language package manager and workflow tool built on the foundation of the conda ecosystem.
-Projects are available to improve user experience, build user interfaces, and extend scope to more programming languages!
-
-##### About pixi
-
-`pixi` is maintained by an open developer community and the Berlin company `prefix.dev`.
-Its mission is to build a simple package manager for all programming languages.
-
-[GitHub repo](https://github.com/prefix-dev/pixi) · [Discord](https://discord.gg/kKV8ZxyzY4)
-
-##### 2025 ESoC projects
-
-See [here for a list of projects ideas](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/prefix-dev.md).
-
-**HOW TO APPLY:** mention `pixi` on your [ESoC application](https://forms.office.com/e/ArWLD0DqVv) (you can update this if you already applied).
-Then, make a pull request on a good first issue by April 26. You will be contacted with further details by the `pixi` team.
-
-* Deadline: April 26, 18:00 UTC
-* Hub: German Center for Open Source AI
-* Sponsor: prefix.dev
-* T&C: pro-rated stipend disbursed by German Center for Open Source AI
-
----
-
-### **rattler**
-
-**APPLICATIONS CLOSED**
-
-**Rust crates for fast handling of conda packages**
-
-`rattler` is a library that provides common functionality used within the conda ecosystem.
-Projects are available to implement build process mechanisms, for instance via parallelization
-
-##### About rattler
-
-The goal of `rattler` is to enable programs and other libraries to easily interact with the conda ecosystem without being dependent on Python. Its primary use case is as a library that you can use to provide conda related workflows in your own tools.
-
-[GitHub repo](https://github.com/conda/rattler) · [Discord](https://discord.gg/kKV8ZxyzY4)
-
-##### 2025 ESoC projects
-
-See [here for a list of projects ideas](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/prefix-dev.md).
-
-**HOW TO APPLY:** mention `rattler` on your [ESoC application](https://forms.office.com/e/ArWLD0DqVv) (you can update this if you already applied).
-Then, make a pull request on a good first issue by April 26. You will be contacted with further details by the `rattler` team.
-
-* Deadline: April 26, 18:00 UTC
-* Hub: German Center for Open Source AI
-* Sponsor: prefix.dev
-* T&C: pro-rated stipend disbursed by German Center for Open Source AI
-
----
-
-### **Gradient-Free-Optimizers and hyperactive**
-
-**APPLICATIONS CLOSED**
-
-**Simple and reliable optimization with local, global, population-based and sequential techniques**
-
-##### About GFO & hyperactive
-
-`Gradient-Free-Optimizers` provides a collection of easy to use optimization techniques, whose objective function only requires an arbitrary score that gets maximized. `Gradient-Free-Optimizers` is the optimization backend of the optimizer toolbox `hyperactive`, but it can also be used by itself as a leaner and simpler optimization toolkit.
-
-[GitHub repo](https://github.com/SimonBlanke/Gradient-Free-Optimizers) · [Discord (shared with sktime)](https://discord.com/invite/54ACzaFsn7)
-
-##### 2025 ESoC projects
-
-See [here for a list of projects available.](https://github.com/european-summer-of-code/esoc2025/blob/main/cards/hyperactive.md)
-
-**HOW TO APPLY:** fill out the [sktime application form](https://forms.gle/bw4vduwQGuM6PZQg9) and submit a project proposal for `hyperactive` and/or GFO.
-
-* Deadline: April 26, 18:00 UTC
-* Hub & Sponsor: German Center for Open Source AI
-* T&C: pro-rated stipend disbursed by German Center for Open Source AI
-
----
-
-### **sktime**
-
-**APPLICATIONS CLOSED**
-
-**The unified framework for machine learning with time series**
-
-Contribute to `sktime`! `sktime` offers a unified API for forecasting, classification, detection, and other learning tasks.
-Exciting projects are available in the areas of deep learning, foundation models, probabilistic forecasting, and more.
-
-##### About sktime
-
-`sktime` is an open-source project backed by an active community of researchers and developers. It is openly governed, and follows a mission of technical integration and content neutrality.
-
-[GitHub repo](https://github.com/sktime/sktime) · [Discord](https://discord.com/invite/54ACzaFsn7) · [Documentation](https://www.sktime.net)
-
-##### 2025 ESoC projects - hub: GC.OS
-
-Multiple projects are available: [project ideas 2025](https://github.com/sktime/mentoring/blob/main/internships/projects_2025.md)
-
-**HOW TO APPLY:** follow the [sktime application guide](https://github.com/sktime/mentoring/blob/main/internships/esoc2025.md)
-
-* Deadline: April 7, 18:00 UTC
-* Hub & Sponsor: German Center for Open Source AI
-* T&C: pro-rated stipend disbursed by German Center for Open Source AI
-
----
-
-### pytorch-forecasting & dsip-ts
-
-**APPLICATIONS CLOSED**
-
-**Deep learning for time series forecasting made easy with PyTorch**
-
-`pytorch-forecasting` is a Python library built on PyTorch, designed to simplify training and using deep learning models for time series forecasting.
-Projects are available, focusing on improving model interfaces, upgrading the package to include foundation models, and more!
-
-##### About pytorch-forecasting
-
-`pytorch-forecasting` is maintained by the `sktime` community in collaboration with GC.OS and FBK (Fondazione Bruno Kessler, ESoC hubs), a merge with `dsipt-ts` is planned for the upcoming 2.0 release. 
-
-[GitHub repo](https://github.com/sktime/pytorch-forecasting) · [Discord](https://discord.com/invite/54ACzaFsn7)
-
-##### 2025 ESoC projects - hubs: FBK, GC.OS
-
-In the **[dedicated card](cards/PTF.md)** you can find more details about the project, some of the activities are taken and grouped from [project ideas 2025](https://github.com/sktime/mentoring/blob/main/internships/projects_2025.md).
-
-**HOW TO APPLY:** follow the [sktime application guide](https://github.com/sktime/mentoring/blob/main/internships/esoc2025.md) - this includes projects for `pytorch-forecasting`.
-
-* Deadline: April 7, 18:00 UTC
-* Hub & Sponsor: Fondazione Bruno Kessler
-* T&C: pro-rated stipend disbursed by German Center for Open Source AI
+First batch of projects announced March 
