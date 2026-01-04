@@ -1,0 +1,231 @@
+# European Summer of Code 2026 - Information and Projects
+
+This page contains general information on European Summer of Code 2026:
+
+* European Summer of Code: background and org structure
+* For applicants: how to apply, list of projects 2026
+* For projects: how to join, timelines
+
+[ESoC webpage](https://www.esoc.dev) - [ESoC on LinkedIn](https://www.linkedin.com/company/european-summer-of-code)
+
+Projects from previous years: [2025](https://github.com/european-summer-of-code/esoc2025/tree/main/esoc2025)
+
+## Changelog
+
+* **2026-01-05: Applicant Guide, Sponsor Guide 2026 published**
+
+## Table of contents
+
+- [Information on European Summer of Code](https://github.com/european-summer-of-code/esoc2025/tree/main#information-on-european-summer-of-code)
+- [Timelines 2026](https://github.com/european-summer-of-code/esoc2025/tree/main#timelines-2026)
+- [Applicant Guide](https://github.com/european-summer-of-code/esoc2025/tree/main#applicant-guide)
+- [Sponsor and Project Guide](https://github.com/european-summer-of-code/esoc2025/tree/main#project-and-sponsor-guide)
+- [2026 Project List - to be announced February 18](https://github.com/european-summer-of-code/esoc2025/tree/main#2026-project-list)
+
+
+## Information on European Summer of Code
+
+### What is European Summer of Code?
+
+European Summer of Code (ESoC) funds stipends for contributors new to open source,
+and matches open source projects and applied AI projects throughout Europe.
+We are much indebted to the Google Summer of Code for inspiration.
+
+The goals of ESoC are threefold:
+
+* provide opportunities for junior developers to engage with open source worldwide
+* link the worldwide open source landscape with private and public sector project throughout Europe
+* provide support to the wider open source ecosystem
+
+In particular, we expressly help applied projects to connect with relevant open source,
+open source projects to connect with applied projects and sponsors,
+and applicants to work on open source directly in an applied context.
+
+### How does ESoC work?
+
+* participants apply for projects with open source libraries or applied partners
+* public and private sector sponsors submit projects
+* open source projects apply for support
+* hubs throughout Europe carry out the matching process
+
+### ESoC Hubs
+
+ESoC is organized in a decentral and distributed fashion, by hubs.
+Current hubs are:
+
+* France: probabl - the scikit-learn company
+* Germany: German Center for Open Source AI
+* Italy: Fondazione Bruno Kessler
+
+We are actively looking to expand our network of hubs.
+
+[Get in touch on LinkedIn](https://www.linkedin.com/company/european-summer-of-code)
+to discuss details.
+
+### Affiliated open source projects
+
+We are actively looking to expand our network of affiliated open source projects.
+
+Projects may affiliate with one of our hubs for streamlined operational integration
+and funding opportunities.
+
+Fill out our open source [project onboarding form](https://forms.office.com/e/SYZhwAUShs) to join!
+
+Currently affiliated projects:
+
+* [`pixi`](https://github.com/prefix-dev/pixi)
+* [`pgmpy`](https://github.com/pgmpy/pgmpy)
+* [`pykalman`](https://github.com/pykalman/pykalman)
+* [`pytorch-forecasting`](https://github.com/sktime/pytorch-forecasting)
+* [`rattler`](https://github.com/prefix-dev/rattler-build)
+* [`scikit-base`](https://github.com/sktime/skbase)
+* [`scikit-learn`](https://github.com/scikit-learn/scikit-learn)
+* [`skore`](https://github.com/probabl-ai/skore)
+* [`skpro`](https://github.com/sktime/skpro)
+* [`skrub`](https://github.com/skrub-data/skrub)
+* [`sktime`](https://github.com/sktime/sktime)
+
+##### Incubating
+
+* `dsip-ts`
+* `Gradient-Free-Optimizers`
+* `hyperactive`
+* `prophetverse`
+
+
+## Timelines 2026
+
+2026 projects will be released in two larger batches, and on a rolling basis thereafter.
+
+Timelines for the two batches are as follows.
+
+### Batch 1
+
+- February 18, 18:00 (UTC). Applications open.
+- March 11, 18:00 (UTC). Applications must be submitted by this deadline.
+- Applicant evaluation, reviews, interviews
+- April 15 - Projects start
+
+### Batch 2
+
+- March 19, 18:00 (UTC). Applications open.
+- April 9, 18:00 (UTC). Applications must be submitted by this deadline.
+- Applicant evaluation, reviews, interviews
+- May 15 - Projects start
+
+
+## Applicant guide
+
+### Projects
+
+* larger batches of 2026 projects will be released on February 18 and March 19.
+* Individual 2026 projects are also released on a rolling basis.
+* projects have their own timelines and may come with their own terms of conditions
+* project specifics are listed in the project card, in the [list of released projects below](https://github.com/european-summer-of-code/esoc2025#2026-project-list)
+
+### Application process
+
+Applicants need to do *two things*:
+
+* **register for ESoC** through the [ESoC applicant registration form](https://forms.office.com/e/ArWLD0DqVv)
+* **follow any additional "how to apply" steps from the project card** of your preferred projects
+    * The project card may require you to fill out a second form, or complete an additional task
+    * The project card may also simply say that filling out the ESoC form suffices (as long as you mention the project)
+    * While there is no limit in the number of projects you can apply for (or penalty), we recommend to focus on at most 3. Applying to too many projects will reduce your time per application and impact application quality.
+
+The deadline for completing *both* ESoC application form, and the project specific application steps,
+by the project application deadline. The project application deadline varies by project, and is specified in the project card, below.
+
+#### FAQs and recommendations
+
+* Please ensure your submitted e-mail address is correct. Letters will be sent to this e-mail address.
+* Please use the same name and e-mail for any fields and forms throughout the process
+* Ensure to note down relevant date periods in advance, and ensure to check your e-mail in those periods.
+* In case of submitted forms, most forms allow you to update the submission up until the deadline.
+* If this is not the case, simply submit another application under the same name. The last submission received before the deadline for a given project counts.
+    * note that the last *received* forms count here - not *submitted* forms which are not received due to technical error, or received too late.
+    * So ensure you submit something early, as some submission systems may overload or not work properly in the last few hours before deadlines.
+
+[Applicant Q&A in the discussion forum](https://github.com/european-summer-of-code/esoc2025/discussions)
+
+### Outcome and project allocation
+
+You will receive a letter from ESoC on your application(s) no later than 6 weeks
+after the application deadline of the project you applied to.
+
+This can be:
+
+* acceptance to one or multiple projects. This means you are offered a slot.
+* waitlist status for one or multiple projects. This means you may be offered the slot if higher ranked applicants withdraw.
+    * In this case a follow-up letter with acceptance or rejection will be sent at a later time.
+* rejection from one or multiple projects
+
+The letter will be sent to the e-mail address you registered with.
+
+In case of acceptance, you will need to reply to the letter within 1 week of receipt.
+
+Please note: once you accept the offer from a project, any pending applications of yours to other projects in 2025 are automatically withdrawn, including those from later batches where the outcome may not yet be clear, or projects where you are on the waitlist.
+
+
+## Project and sponsor guide
+
+### Onboarding process
+
+* Private and public sector organisations wishing to host a project should submit a [project sponsor form](https://forms.office.com/e/0brWFKNrg7).
+* open source projects should submit an [open source project form](https://forms.office.com/e/SYZhwAUShs). 
+
+One of our hubs will be in touch shortly after submission, for review.
+In case of positive decision, we will work with you to prepare your project for release or onboarding.
+
+#### Sponsored projects
+
+Finalization for sponsored projects requires:
+
+* choosing a funding model:
+    * option A: donation for stipend. This is easiest, with low contractual complexity: you donate to a hub, and the hub contracts with the participant. The "stipend" requires that a significant portion (but not all) of the outputs are in the open domain, e.g., contributions to an open source project or a research report.
+    * option B: paid internship. You can use your own contract template, in this case the hub will only act as matchmaker, and you will diractly contract with applicants and manage any tax and visa requirements.
+
+(this information queried via the [project sponsor form](https://forms.office.com/e/0brWFKNrg7))
+
+* completing the project card, see [details below](https://github.com/european-summer-of-code/esoc2025#project-card) and [example project cards](https://github.com/european-summer-of-code/esoc2025#2025-project-list)
+    * this includes finalizing an application process with your hub.
+    "Default" processes are available, these select for generic AI, python, and open source capabilities.
+    * for data driven projects, it will also require finalizing data batches and data sharing processes before the project starts
+
+#### Open Source projects
+
+Open source projects should let us know via the form what they are looking for:
+
+* sponsoring for development (internal project)
+* matchmaking with applied AI projects
+* contributor onboarding
+
+Open source project should:
+
+* create a list with development projects
+* ensure that mentors are available
+* communicate their capacity for stipend slots and mentored slots
+
+(this information queried via the [open source project form](https://forms.office.com/e/SYZhwAUShs))
+
+### Project card
+
+Project cards should include:
+
+* project title, project logos
+* one-sentence description
+* paragraph: project goals
+* paragraph: about the organization (optional: logo)
+* paragraph: technical details (very short - link details)
+* clear "HOW TO APPLY" info, deadlines
+* optional: eye catcher image
+* optional links to: more details, data (where applicable), videos or presentations
+
+Some examples are [in the project list below](https://github.com/european-summer-of-code/esoc2025#2025-project-list).
+
+
+# 2026 Project list
+
+To be announced.
+
+First batch of projects announced March 
