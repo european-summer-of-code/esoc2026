@@ -79,6 +79,7 @@ Currently affiliated projects:
 * [`pgmpy`](https://github.com/pgmpy/pgmpy)
 * [`pykalman`](https://github.com/pykalman/pykalman)
 * [`pytorch-forecasting`](https://github.com/sktime/pytorch-forecasting)
+* [`pytorch-tabular`](https://github.com/pytorch-tabular/pytorch_tabular)
 * [`rattler`](https://github.com/prefix-dev/rattler-build)
 * [`scikit-base`](https://github.com/sktime/skbase)
 * [`scikit-learn`](https://github.com/scikit-learn/scikit-learn)
@@ -114,7 +115,7 @@ The event will feature:
 * organization and sponsor guide and Q&A
 * advice from previous year's mentors and successful applicants
 
-Location: [AIoD discord, events channel](https://discord.gg/hE5rYxtV)
+Location: [AIoD discord, events channel](https://discord.gg/A7YDRyvqYE)
 
 ### Feb 18 - Batch 1
 
