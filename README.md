@@ -120,14 +120,14 @@ Location: [AIoD discord, events channel](https://discord.gg/A7YDRyvqYE)
 ### Feb 18 - Batch 1
 
 - February 18, 18:00 (UTC). Applications open.
-- March 11, 18:00 (UTC). Applications must be submitted by this deadline.
+- March 18, 18:00 (UTC). Applications must be submitted by this deadline.
 - Applicant evaluation, reviews, interviews
 - April 15 - Projects start
 
 ### Mar 19 - Batch 2
 
 - March 19, 18:00 (UTC). Applications open.
-- April 9, 18:00 (UTC). Applications must be submitted by this deadline.
+- April 16, 18:00 (UTC). Applications must be submitted by this deadline.
 - Applicant evaluation, reviews, interviews
 - May 15 - Projects start
 
