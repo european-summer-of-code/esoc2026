@@ -365,11 +365,9 @@ See [here for a list of good first issues](https://github.com/prefix-dev/rattler
 * Hub: German Center for Open Source AI
 * Sponsor: prefix.dev
 * T&C: pro-rated stipend disbursed by German Center for Open Source AI
-https://github.com/conda/rattler/issues/2059
 
 ---
 
-### **skpro**
 ### **skpro**
 
 **The unified framework for probabilistic supervised machine learning in Python.**
