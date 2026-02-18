@@ -269,12 +269,13 @@ Multiple projects are available within the `ai-on-demand` ecosystem. You can con
 **HOW TO APPLY:** mention `ai-on-demand` as an interest on your ESoC application (you can update this if you already applied).
 Then, submit a pull request addressing a good first issue by March 18. The `ai-on-demand` maintainers will contact you with further details.
 
-The following repositories are valid contribution targets for the application:
+The following repositories are valid contribution targets for the application phase:
 
 * https://github.com/aiondemand/aiondemand
 * https://github.com/aiondemand/AIOD-rest-api
 * https://github.com/openml/openml-python
 * https://github.com/openml/server-api
+* projects supported by GC.OS - https://github.com/gc-os-ai/#projects-supported-by-gcos
 
 Application details:
 
