@@ -297,7 +297,7 @@ It is the major causal modelling package not affiliated with a single commercial
 
 [GitHub repo](https://github.com/pgmpy/pgmpy) · [Discord](https://discord.gg/DRkdKaumBs) · [Documentation](https://pgmpy.org/)
 
-##### 2026 ESoC projects - hub: GC.OS
+##### 2026 ESoC projects - hub: Radboud University
 
 Multiple projects are available: [project ideas 2026](https://github.com/pgmpy/pgmpy/wiki/GSoC-2026-Project-Ideas), [mentored projects 2026](https://github.com/pgmpy/pgmpy/wiki/Mentored-Projects) - you can also suggest your own project, by opening an issue.
 
@@ -364,7 +364,7 @@ See [here for a list of good first issues](https://github.com/prefix-dev/rattler
 * Hub: German Center for Open Source AI
 * Sponsor: prefix.dev
 * T&C: pro-rated stipend disbursed by German Center for Open Source AI
-https://github.com/conda/rattler/issues/2059
+
 ---
 
 ### **sktime**
