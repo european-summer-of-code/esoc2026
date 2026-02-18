@@ -368,6 +368,30 @@ See [here for a list of good first issues](https://github.com/prefix-dev/rattler
 
 ---
 
+### **skpro**
+
+**The unified framework for probabilistic supervised machine learning in Python.**
+
+Contribute to `skpro`! `skpro` extends the scikit-learn ecosystem with a unified API for probabilistic regression, distributional prediction, survival analysis, and related uncertainty-aware learning tasks. Exciting projects are available in areas such as probabilistic deep learning, calibration, distributional metrics, composite models, and tighter interoperability with the scientific Python stack.
+
+##### About skpro
+
+`skpro` provides consistent abstractions for predictive distributions, probabilistic metrics, and meta-estimators, enabling researchers and practitioners to build, evaluate, and deploy models that quantify uncertainty in a principled way. The project is openly governed and follows a mission of technical integration and content neutrality.
+
+[GitHub repo](https://github.com/sktime/skpro) · [Discord](https://discord.com/invite/54ACzaFsn7) · [Documentation](https://skpro.readthedocs.io/en/latest/)
+
+##### 2026 ESoC projects – hub: GC.OS
+
+Multiple projects are available within the `skpro` ecosystem, including new probabilistic estimators, improved benchmarking tools, enhanced distribution objects, and ecosystem integration.
+
+**HOW TO APPLY:** follow the [sktime application guide](https://github.com/sktime/mentoring/blob/main/internships/esoc2026.md) - this includes projects for `skpro`.
+
+* Deadline: March 19, 18:00 UTC
+* Hub & Sponsor: German Center for Open Source AI
+* T&C: Pro-rated stipend disbursed by German Center for Open Source AI
+
+---
+
 ### **sktime**
 
 **The unified framework for machine learning with time series**
