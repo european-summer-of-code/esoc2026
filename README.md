@@ -357,7 +357,7 @@ The goal of `rattler` is to enable programs and other libraries to easily intera
 **HOW TO APPLY:** mention `rattler` on your [ESoC application](https://forms.office.com/e/ArWLD0DqVv) (you can update this if you already applied).
 Then, make a pull request on a good first issue by March 19. You will be contacted with further details by the `rattler` team.
 
-See [here for a list of good first issues](https://github.com/prefix-dev/rattler/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22).
+See [here for a list of good first issues](https://github.com/conda/rattler/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22).
 
 [Project ideas for 2026: `rattler-vfs`](https://github.com/conda/rattler/issues/2059)
 
