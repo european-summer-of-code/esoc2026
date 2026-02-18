@@ -12,15 +12,16 @@ Projects from previous years: [2025](https://github.com/european-summer-of-code/
 
 ## Changelog
 
+* **2026-02-18: Batch 1 projects released!**
 * **2026-01-05: Applicant Guide, Sponsor Guide 2026 published**
 
 ## Table of contents
 
-- [Information on European Summer of Code](https://github.com/european-summer-of-code/esoc2025/tree/main#information-on-european-summer-of-code)
-- [Timelines 2026](https://github.com/european-summer-of-code/esoc2025/tree/main#timelines-2026)
-- [Applicant Guide](https://github.com/european-summer-of-code/esoc2025/tree/main#applicant-guide)
-- [Sponsor and Project Guide](https://github.com/european-summer-of-code/esoc2025/tree/main#project-and-sponsor-guide)
-- [2026 Project List - to be announced February 18](https://github.com/european-summer-of-code/esoc2025/tree/main#2026-project-list)
+- [Information on European Summer of Code](https://github.com/european-summer-of-code/esoc2026/tree/main#information-on-european-summer-of-code)
+- [Timelines 2026](https://github.com/european-summer-of-code/esoc2026/tree/main#timelines-2026)
+- [Applicant Guide](https://github.com/european-summer-of-code/esoc2026/tree/main#applicant-guide)
+- [Sponsor and Project Guide](https://github.com/european-summer-of-code/esoc2026/tree/main#project-and-sponsor-guide)
+- [2026 Project List](https://github.com/european-summer-of-code/esoc2026/tree/main#2026-project-list)
 
 
 ## Information on European Summer of Code
@@ -139,7 +140,7 @@ Location: [AIoD discord, events channel](https://discord.gg/A7YDRyvqYE)
 * larger batches of 2026 projects will be released on February 18 and March 19.
 * Individual 2026 projects are also released on a rolling basis.
 * projects have their own timelines and may come with their own terms of conditions
-* project specifics are listed in the project card, in the [list of released projects below](https://github.com/european-summer-of-code/esoc2025#2026-project-list)
+* project specifics are listed in the project card, in the [list of released projects below](https://github.com/european-summer-of-code/esoc2026#2026-project-list)
 
 ### Application process
 
@@ -164,7 +165,7 @@ by the project application deadline. The project application deadline varies by 
     * note that the last *received* forms count here - not *submitted* forms which are not received due to technical error, or received too late.
     * So ensure you submit something early, as some submission systems may overload or not work properly in the last few hours before deadlines.
 
-[Applicant Q&A in the discussion forum](https://github.com/european-summer-of-code/esoc2025/discussions)
+[Applicant Q&A in the discussion forum](https://github.com/european-summer-of-code/esoc2026/discussions)
 
 ### Outcome and project allocation
 
@@ -182,7 +183,7 @@ The letter will be sent to the e-mail address you registered with.
 
 In case of acceptance, you will need to reply to the letter within 1 week of receipt.
 
-Please note: once you accept the offer from a project, any pending applications of yours to other projects in 2025 are automatically withdrawn, including those from later batches where the outcome may not yet be clear, or projects where you are on the waitlist.
+Please note: once you accept the offer from a project, any pending applications of yours to other projects in 2026 are automatically withdrawn, including those from later batches where the outcome may not yet be clear, or projects where you are on the waitlist.
 
 
 ## Project and sponsor guide
@@ -205,7 +206,7 @@ Finalization for sponsored projects requires:
 
 (this information queried via the [project sponsor form](https://forms.office.com/e/0brWFKNrg7))
 
-* completing the project card, see [details below](https://github.com/european-summer-of-code/esoc2025#project-card) and [example project cards](https://github.com/european-summer-of-code/esoc2025#2025-project-list)
+* completing the project card, see [details below](https://github.com/european-summer-of-code/esoc2026#project-card) and [example project cards](https://github.com/european-summer-of-code/esoc2026#2026-project-list)
     * this includes finalizing an application process with your hub.
     "Default" processes are available, these select for generic AI, python, and open source capabilities.
     * for data driven projects, it will also require finalizing data batches and data sharing processes before the project starts
@@ -239,12 +240,177 @@ Project cards should include:
 * optional: eye catcher image
 * optional links to: more details, data (where applicable), videos or presentations
 
-Some examples are [in the project list below](https://github.com/european-summer-of-code/esoc2025#2025-project-list).
+Some examples are [in the project list below](https://github.com/european-summer-of-code/esoc2026#2026-project-list).
 
 
 # 2026 Project list
 
-To be announced.
-
-* First batch of projects announced February 18
+* First batch of projects below.
 * Second batch of projects announced March 19
+
+### **AI-on-Demand platform**
+
+**The open platform for AI on demand.**
+
+Contribute to `ai-on-demand` – the European vision for an open AI portal!
+
+##### About ai-on-demand
+
+`ai-on-demand` is an open-source initiative developed and maintained by a growing community of contributors focused on accessible AI assets.
+
+The AI-on-demand metadata catalogue has the ambition to provide easy access to open source AI resources across the ecosystem.
+
+[Discord](https://discord.gg/mwVbHyJXuu)
+
+##### 2026 ESoC projects – hub: GC.OS
+
+Multiple projects are available within the `ai-on-demand` ecosystem. You can contribute to catalogue functions, backend maintenance, performance optimization, service improvements, documentation improvements, or propose your own project idea by opening an issue in the repository.
+
+**HOW TO APPLY:** mention `ai-on-demand` as an interest on your ESoC application (you can update this if you already applied).
+Then, submit a pull request addressing a good first issue by March 18. The `ai-on-demand` maintainers will contact you with further details.
+
+The following repositories are valid contribution targets for the application:
+
+* https://github.com/aiondemand/aiondemand
+* https://github.com/aiondemand/AIOD-rest-api
+* https://github.com/openml/openml-python
+* https://github.com/openml/server-api
+
+Application details:
+
+* Deadline: March 18, 18:00 UTC
+* Sponsor: funding by AI-on-Demand project (Horizon Europe)
+* Hub: German Center for Open Source AI
+* T&C: Pro-rated stipend disbursed by German Center for Open Source AI
+
+---
+### **pgmpy**
+
+**The framework for causal inference, causal structure learning, and causal simulation.**
+
+Contribute to `pgmpy` - the causal learning package! Help implement new types of causal models, and increase interoperability of, and within, the package!
+
+##### About pgmpy
+
+`pgmpy` is an open-source project backed by an active community of researchers and developers.
+It is the major causal modelling package not affiliated with a single commercial entity, with a distributed user and maintainer base.
+
+[GitHub repo](https://github.com/pgmpy/pgmpy) · [Discord](https://discord.gg/DRkdKaumBs) · [Documentation](https://pgmpy.org/)
+
+##### 2026 ESoC projects - hub: GC.OS
+
+Multiple projects are available: [project ideas 2026](https://github.com/pgmpy/pgmpy/wiki/GSoC-2026-Project-Ideas), [mentored projects 2026](https://github.com/pgmpy/pgmpy/wiki/Mentored-Projects) - you can also suggest your own project, by opening an issue.
+
+**HOW TO APPLY:** mention `pgmpy` as an interest on your [ESoC application](https://forms.office.com/e/ArWLD0DqVv) (you can update this if you already applied).
+Then, make a pull request on a good first issue by March 18. You will be contacted with further details by the `pgmpy` team.
+
+* Deadline: March 18, 18:00 UTC
+* Hub: Radboud University
+* Sponsor: Zerodha
+* T&C: pro-rated stipend disbursed by German Center for Open Source AI
+
+---
+
+### **pyGAM**
+
+**The Python framework for Generalized Additive Models (GAMs).**
+
+Contribute to `pyGAM` – the interpretable machine learning library for additive modeling! Help implement new spline terms and distributions, improve model diagnostics and visualization tools, and expand compatibility with the broader scientific Python ecosystem.
+
+##### About pyGAM
+
+`pyGAM` is an open-source project focused on making Generalized Additive Models accessible, practical, and production-ready in Python.
+
+It provides a flexible and user-friendly interface for fitting GAMs with automatic smoothing parameter selection, built-in regularization, and rich visualization utilities. The project is community-driven and welcomes contributions ranging from core algorithmic improvements to documentation, testing, and examples.
+
+[GitHub repo](https://github.com/dswah/pyGAM) · [Documentation](https://pygam.readthedocs.io/)
+
+##### 2026 ESoC projects – hub: GC.OS
+
+Multiple projects are available: [project ideas 2026](https://github.com/gc-os-ai/mentoring-projects/blob/main/2026/pyGAM.md).
+
+**HOW TO APPLY:** mention `pyGAM` as an interest on your ESoC application (you can update this if you already applied).
+Then, submit a pull request addressing a good first issue by March 18. The `pyGAM` maintainers will follow up with further details.
+
+* Deadline: March 18, 18:00 UTC
+* Hub & Sponsor: German Center for Open Source AI
+* T&C: Pro-rated stipend disbursed by German Center for Open Source AI
+
+---
+
+### **rattler**
+
+**Rust crates for fast handling of conda packages**
+
+`rattler` is a library that provides common functionality used within the conda ecosystem.
+Projects are available to implement build process mechanisms, for instance via parallelization
+
+##### About rattler
+
+The goal of `rattler` is to enable programs and other libraries to easily interact with the conda ecosystem without being dependent on Python. Its primary use case is as a library that you can use to provide conda related workflows in your own tools.
+
+[GitHub repo](https://github.com/conda/rattler) · [Discord](https://discord.gg/kKV8ZxyzY4)
+
+##### 2026 ESoC projects
+
+**HOW TO APPLY:** mention `rattler` on your [ESoC application](https://forms.office.com/e/ArWLD0DqVv) (you can update this if you already applied).
+Then, make a pull request on a good first issue by March 19. You will be contacted with further details by the `rattler` team.
+
+See [here for a list of good first issues](https://github.com/prefix-dev/rattler/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22).
+
+[Project ideas for 2026: `rattler-vfs`](https://github.com/conda/rattler/issues/2059)
+
+* Deadline: March 19, 18:00 UTC
+* Hub: German Center for Open Source AI
+* Sponsor: prefix.dev
+* T&C: pro-rated stipend disbursed by German Center for Open Source AI
+https://github.com/conda/rattler/issues/2059
+---
+
+### **sktime**
+
+**The unified framework for machine learning with time series**
+
+Contribute to `sktime`! `sktime` offers a unified API for forecasting, classification, detection, and other learning tasks.
+Exciting projects are available in the areas of deep learning, foundation models, probabilistic forecasting, and more.
+
+##### About sktime
+
+`sktime` is an open-source project backed by an active community of researchers and developers. It is openly governed, and follows a mission of technical integration and content neutrality.
+
+[GitHub repo](https://github.com/sktime/sktime) · [Discord](https://discord.com/invite/54ACzaFsn7) · [Documentation](https://www.sktime.net)
+
+##### 2026 ESoC projects - hub: GC.OS
+
+Multiple projects are available: [project ideas 2026](https://github.com/sktime/mentoring/blob/main/internships/projects_2026.md)
+
+**HOW TO APPLY:** follow the [sktime application guide](https://github.com/sktime/mentoring/blob/main/internships/esoc2026.md)
+
+* Deadline: March 19, 18:00 UTC
+* Hub & Sponsor: German Center for Open Source AI
+* T&C: pro-rated stipend disbursed by German Center for Open Source AI
+
+---
+
+### pytorch-forecasting & dsip-ts
+
+**Deep learning for time series forecasting made easy with PyTorch**
+
+`pytorch-forecasting` is a Python library built on PyTorch, designed to simplify training and using deep learning models for time series forecasting.
+Projects are available, focusing on improving model interfaces, upgrading the package to include foundation models, and more!
+
+##### About pytorch-forecasting
+
+`pytorch-forecasting` is maintained by the `sktime` community in collaboration with GC.OS and FBK (Fondazione Bruno Kessler, ESoC hubs), a merge with `dsipt-ts` is planned for the upcoming 2.0 release. 
+
+[GitHub repo](https://github.com/sktime/pytorch-forecasting) · [Discord](https://discord.com/invite/54ACzaFsn7)
+
+##### 2026 ESoC projects - hubs: FBK, GC.OS
+
+In the **[dedicated card](cards/PTF.md)** you can find more details about the project, some of the activities are taken and grouped from [project ideas 2026](https://github.com/sktime/mentoring/blob/main/internships/projects_2026.md).
+
+**HOW TO APPLY:** follow the [sktime application guide](https://github.com/sktime/mentoring/blob/main/internships/esoc2026.md) - this includes projects for `pytorch-forecasting`.
+
+* Deadline: March 19, 18:00 UTC
+* Hub & Sponsor: GC.OS, Fondazione Bruno Kessler
+* T&C: pro-rated stipend disbursed by German Center for Open Source AI
