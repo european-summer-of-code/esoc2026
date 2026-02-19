@@ -445,7 +445,7 @@ Projects are available, focusing on improving model interfaces, upgrading the pa
 
 ##### 2026 ESoC projects - hubs: FBK, GC.OS
 
-In the **[dedicated card](cards/PTF.md)** you can find more details about the project, some of the activities are taken and grouped from [project ideas 2026](https://github.com/sktime/mentoring/blob/main/internships/projects_2026.md).
+Multiple projects are available: [project ideas 2026](https://github.com/sktime/mentoring/blob/main/internships/projects_2026.md)
 
 **HOW TO APPLY:** follow the [sktime application guide](https://github.com/sktime/mentoring/blob/main/internships/esoc2026.md) - this includes projects for `pytorch-forecasting`.
 
