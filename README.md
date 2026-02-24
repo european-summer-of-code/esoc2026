@@ -81,7 +81,7 @@ Currently affiliated projects:
 * [`pykalman`](https://github.com/pykalman/pykalman)
 * [`pytorch-forecasting`](https://github.com/sktime/pytorch-forecasting)
 * [`pytorch-tabular`](https://github.com/pytorch-tabular/pytorch_tabular)
-* [`rattler`](https://github.com/prefix-dev/rattler-build)
+* [`rattler`](https://github.com/conda/rattler)
 * [`scikit-base`](https://github.com/sktime/skbase)
 * [`scikit-learn`](https://github.com/scikit-learn/scikit-learn)
 * [`skore`](https://github.com/probabl-ai/skore)
