@@ -439,7 +439,7 @@ Projects are available, focusing on improving model interfaces, upgrading the pa
 
 `pytorch-forecasting` is maintained by the `sktime` community in collaboration with GC.OS and FBK (Fondazione Bruno Kessler, ESoC hubs), a merge with `dsipt-ts` is planned for the upcoming 2.0 release. 
 
-[GitHub repo](https://github.com/sktime/pytorch-forecasting) · [Discord](https://discord.com/invite/54ACzaFsn7)
+[GitHub repo](https://github.com/sktime/pytorch-forecasting) · [Discord](https://discord.com/invite/54ACzaFsn7) · [Documentation](https://pytorch-forecasting.readthedocs.io/)
 
 ##### 2026 ESoC projects - hubs: FBK, GC.OS
 
