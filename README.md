@@ -372,8 +372,6 @@ Then, make a pull request on a good first issue by March 19. You will be contact
 
 See [here for a list of good first issues](https://github.com/conda/rattler/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22).
 
-[Project ideas for 2026: `rattler-vfs`](https://github.com/conda/rattler/issues/2059)
-
 * Deadline: March 19, 18:00 UTC
 * Hub: German Center for Open Source AI
 * Sponsor: prefix.dev
