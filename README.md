@@ -97,7 +97,7 @@ Currently affiliated projects:
 
 ## Timelines 2026
 
-2026 projects will be released in two larger batches, on Feb 18 and Mar 19, and on a rolling basis thereafter.
+2026 projects will be released in two larger batches, on Feb 18 and Apr 1, and on a rolling basis thereafter.
 
 **An information event for applicants and interested organizations will take place on January 30, 11-14 UTC.**
 
