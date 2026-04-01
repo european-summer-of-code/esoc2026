@@ -33,7 +33,7 @@ If you get stuck or have questions, please feel free to reach out to us on `info
 
 ### Application forms
 
-The deadline to complete all of these is April 9, 18:00 (UTC) for batch 1, or May 14, 18:00 (UTC) for batch 3.
+The deadline to complete all of these is April 30, 18:00 UTC (for batch 2, 2026).
 
 1. Fill in and submit the [ESoC application form](https://www.linkedin.com/posts/european-summer-of-code_european-summer-of-code-activity-7308135810648715264-RbpO)
 

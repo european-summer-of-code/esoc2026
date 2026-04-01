@@ -373,11 +373,36 @@ It is the major open source package for explainable AI, widely considered the de
 Contributors should look first at [starter project ideas 2026](https://github.com/european-summer-of-code/esoc2026/blob/main/cards/shap.md).
 
 **HOW TO APPLY:** mention `shap` as an interest on your [ESoC application](https://forms.office.com/e/ArWLD0DqVv) (you can update this if you already applied).
-Then, make a pull request on a good first issue by April 30. You will be contacted with further details by the `shap` team.
+Then, make a pull request on a good first issue, bugfix, or related to the starter project ideas, by April 30.
+You will be contacted with further details by the `shap` team.
 
 * Deadline: April 30, 18:00 UTC
 * Sponsor: GC.OS
 * Hub: GC.OS
+* T&C: pro-rated stipend disbursed by German Center for Open Source AI
+
+### **sktime agentic**
+
+**The unified framework for machine learning with time series - The next generation!**
+
+Join `sktime` in an exciting phase of developing genAI based and agentic features!
+
+##### About sktime agentic & genAI
+
+`sktime` is a go-to framework for time series based AI.
+In 2026, we want to move the project to the next level in terms of agentic features and genAI integration.
+
+This project is about implementing ideas for agentic or genAI features complementing `sktime`.
+We value new ideas as well as contributions to existing genAI/agentic tools such as [sktime-mcp](https://github.com/sktime/sktime-mcp).
+
+[sktime](https://github.com/sktime/sktime) · [Discord](https://discord.com/invite/54ACzaFsn7) · [Documentation](https://www.sktime.net)
+
+##### 2026 ESoC projects - hub: GC.OS
+
+**HOW TO APPLY:** follow the [GC.OS applied project application guide](https://github.com/european-summer-of-code/esoc2026/blob/main/cards/gcos-esoc2026-batches.md), and specifically work on one of the [sktime agentic project ideas](https://github.com/european-summer-of-code/esoc2026/blob/main/cards/sktime-agentic.md)
+
+* Deadline: April 30, 18:00 UTC
+* Hub & Sponsor: German Center for Open Source AI
 * T&C: pro-rated stipend disbursed by German Center for Open Source AI
 
 ---
