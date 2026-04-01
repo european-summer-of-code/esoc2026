@@ -1,3 +1,5 @@
+Also see [`shap` project ideas page](https://github.com/shap/shap/wiki/ESoC-2026-Project-Ideas)
+
 Starter ideas for contributing to `shap`:
 
 - move all 16 `numba` njit-AOT compiled functions to c++ via `nanobind`,
