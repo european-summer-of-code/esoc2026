@@ -1,5 +1,5 @@
 In order to be eligible for a stipend through the `sktime` agentic track, you must
-have worked on an agentic or genAI related feature or application in the vicinity of
+have worked on an agentic, or LLM/genAI related feature or application in the vicinity of
 `sktime`, under the GitHub account that you are applying with.
 
 Some ideas for this are listed below:
