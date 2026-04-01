@@ -12,6 +12,7 @@ Projects from previous years: [2025](https://github.com/european-summer-of-code/
 
 ## Changelog
 
+* **2026-04-01: Batch 2 projects released!**
 * **2026-03-18: Batch 2 release moved to April 1.**
 * **2026-02-18: Batch 1 projects released!**
 * **2026-01-05: Applicant Guide, Sponsor Guide 2026 published**
@@ -84,6 +85,7 @@ Currently affiliated projects:
 * [`pytorch-tabular`](https://github.com/pytorch-tabular/pytorch_tabular)
 * [`rattler`](https://github.com/conda/rattler)
 * [`scikit-base`](https://github.com/sktime/skbase)
+* [`shap`](https://github.com/shap/shap)
 * [`skpro`](https://github.com/sktime/skpro)
 * [`sktime`](https://github.com/sktime/sktime)
 
@@ -259,7 +261,60 @@ Some examples are [in the project list below](https://github.com/european-summer
 * First batch of projects below.
 * Second batch of projects announced April 1
 
+
+## Applied projects
+
+### **Embedded AI for Predictive Sensor Systems in Agriculture 4.0**
+
+Develop embedded time series AI for monitoring and event detection in next generation agricultural machinery!
+
+Sponsored by, and in direct collaboration with, a major European manufacturer of agricultural machinery.
+
+##### Project overview ([link to detail info sheet](https://github.com/european-summer-of-code/esoc2026/blob/main/cards/predictive_sensor.md))
+
+Time series AI empowers agricultural machinery to process sensor data in real time, detecting patterns in crop flow, soil conditions, and machine performance. This enables instant, continuous on-device optimization, reducing delays, improving efficiency, and preventing machine wear or downtime.
+
+In this project, you will build foreign object detection models and warning systems based on agricultural datasets. See [details here](https://github.com/european-summer-of-code/esoc2026/blob/main/cards/predictive_sensor.md).
+
+Join this project with a major European manufacturer of agricultural machinery and the German Center for Open Source AI, to build the next generation of agriculture machines!
+
+**HOW TO APPLY:** follow the [GC.OS applied project application guide](https://github.com/european-summer-of-code/esoc2026/blob/main/cards/gcos-esoc2026-batches.md). Also make at least one substantial pull request to `sktime`, preferably, but not necessarily, on the topic of detection, time series classification, or time series regression.
+
+* Deadline: April 30, 18:00 UTC
+* Hub: German Center for Open Source AI
+* Sponsor: major European manufacturer of agricultural machinery
+* T&C: pro-rated stipend disbursed by German Center of Open Source AI.
+
+---
+
+### **AI for automated drug discovery with `pyaptamer`**
+
+Contribute to `pyaptamer` - open source package for developing aptamers in-silico!
+
+##### Project overview ([link to detail info sheet](https://github.com/european-summer-of-code/esoc2026/blob/main/cards/pyaptamer.md))
+
+Aptamers are highly specific biomolecules, which can pave the way for individualised diagnostics and therapy, allowing personalized treatment of various diseases like cancer, infections or autoimmune disorder. Classically done through in-vitro (lab) experiments, AI-driven in-silico approaches have seen promising advances, fuelled by the success of AlphaFold.
+
+In ESoC 2025, we have built the `pyaptamer` package together with German biotech engineering consultancy ecoSPECS, making in-silico experiments to generate aptamers accessible to a wider user base. 
+
+Join ecoSPECS and the German Center for Open Source AI to get the `pyaptamer` package to the next level!
+
+##### About `pyaptamer`
+
+`pyaptamer` is in-silico aptamer generation package for diagnostics and medical applications. It currently interfaces multiple algorithms such as AptaNet, AptaTrans and MAWS. On the 2026 roadmap we want to add (or develop) state-of-art algorithms, robustify the API, and increase interoperability.
+
+**HOW TO APPLY:** follow the [GC.OS applied project application guide](https://github.com/european-summer-of-code/esoc2026/blob/main/cards/gcos-esoc2026-batches.md). Also make at least one substantial pull request to `pyaptamer`.
+
+* Deadline: April 30, 18:00 UTC
+* Hub: German Center for Open Source AI
+* Sponsor: ecoSPECS
+* T&C: pro-rated stipend disbursed by German Center of Open Source AI.
+
+---
+
 ### **AI-on-Demand platform**
+
+**APPLICATIONS CLOSED**
 
 **The open platform for AI on demand.**
 
@@ -296,7 +351,40 @@ Application details:
 * T&C: Pro-rated stipend disbursed by German Center for Open Source AI
 
 ---
+
+## Open Source Projects
+
+### **shap**
+
+**The explainable AI framework.**
+
+Contribute to `shap` - the original framework for explainable AI!
+Help improve efficiency and testing, or implement new models!
+
+##### About shap
+
+`shap` is an open-source project backed by an active community of researchers and developers.
+It is the major open source package for explainable AI, widely considered the default tool.
+
+[GitHub repo](https://github.com/shap/shap) · [Documentation](https://shap.readthedocs.io/en/latest/)
+
+##### 2026 ESoC projects - hub: GC.OS
+ 
+Contributors should look first at [starter project ideas 2026](https://github.com/european-summer-of-code/esoc2026/blob/main/cards/shap.md).
+
+**HOW TO APPLY:** mention `shap` as an interest on your [ESoC application](https://forms.office.com/e/ArWLD0DqVv) (you can update this if you already applied).
+Then, make a pull request on a good first issue by April 30. You will be contacted with further details by the `shap` team.
+
+* Deadline: April 30, 18:00 UTC
+* Sponsor: GC.OS
+* Hub: GC.OS
+* T&C: pro-rated stipend disbursed by German Center for Open Source AI
+
+---
+
 ### **pgmpy**
+
+**APPLICATIONS CLOSED**
 
 **The framework for causal inference, causal structure learning, and causal simulation.**
 
@@ -325,6 +413,8 @@ Then, make a pull request on a good first issue by March 18. You will be contact
 
 ### **pyGAM**
 
+**APPLICATIONS CLOSED**
+
 **The Python framework for Generalized Additive Models (GAMs).**
 
 Contribute to `pyGAM` – the interpretable machine learning library for additive modeling! Help implement new spline terms and distributions, improve model diagnostics and visualization tools, and expand compatibility with the broader scientific Python ecosystem.
@@ -351,6 +441,8 @@ Then, submit a pull request addressing a good first issue by March 18. The `pyGA
 ---
 
 ### **rattler**
+
+**APPLICATIONS CLOSED**
 
 **Rust crates for fast handling of conda packages**
 
@@ -379,6 +471,8 @@ See [here for a list of good first issues](https://github.com/conda/rattler/issu
 
 ### **skpro**
 
+**APPLICATIONS CLOSED**
+
 **The unified framework for probabilistic supervised machine learning in Python.**
 
 Contribute to `skpro`! `skpro` extends the scikit-learn ecosystem with a unified API for probabilistic regression, distributional prediction, survival analysis, and related uncertainty-aware learning tasks. Exciting projects are available in areas such as probabilistic deep learning, calibration, distributional metrics, composite models, and tighter interoperability with the scientific Python stack.
@@ -402,6 +496,8 @@ Multiple projects are available within the `skpro` ecosystem, including new prob
 ---
 
 ### **sktime**
+
+**APPLICATIONS CLOSED**
 
 **The unified framework for machine learning with time series**
 
@@ -427,6 +523,8 @@ Multiple projects are available: [project ideas 2026](https://github.com/sktime/
 ---
 
 ### pytorch-forecasting & dsip-ts
+
+**APPLICATIONS CLOSED**
 
 **Deep learning for time series forecasting made easy with PyTorch**
 
