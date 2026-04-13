@@ -1,4 +1,4 @@
-# German Center for Open Source AI - ESoC 2025 application guide
+# German Center for Open Source AI - ESoC 2026 application guide
 
 For questions about the process, please contact `info(at)gcos(dot)ai` or the [LinkedIn page for ESoC](https://www.linkedin.com/company/european-summer-of-code/)
 
