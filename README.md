@@ -120,36 +120,36 @@ Location: [AIoD discord, events channel](https://discord.gg/A7YDRyvqYE)
 
 ### Feb 18 - Batch 1
 
-- February 18, 18:00 (UTC). Applications open.
-- March 19, 18:00 (UTC). Applications must be submitted by this deadline.
+- February 18, 18:00 (UTC): Applications open.
+- March 19, 18:00 (UTC): Applications must be submitted by this deadline.
 - Applicant evaluation, reviews, interviews
-- April 15 - Projects start
+- April 15: Projects start.
 
 ### Apr 1 - Batch 2
 
-- April 1, 18:00 (UTC). Applications open.
-- April 30, 18:00 (UTC). Applications must be submitted by this deadline.
+- April 1, 18:00 (UTC): Applications open.
+- April 30, 18:00 (UTC): Applications must be submitted by this deadline.
 - Applicant evaluation, reviews, interviews
-- May 25 - Projects start
+- May 25: Projects start.
 
 
 ## Applicant guide
 
 ### Projects
 
-* larger batches of 2026 projects will be released on February 18 and April 1.
+* Larger batches of 2026 projects will be released on February 18 and April 1.
 * Individual 2026 projects are also released on a rolling basis.
-* projects have their own timelines and may come with their own terms of conditions
-* project specifics are listed in the project card, in the [list of released projects below](https://github.com/european-summer-of-code/esoc2026#2026-project-list)
+* Projects have their own timelines and may come with their own terms of conditions.
+* Project specifics are listed in the project card, in the [list of released projects below](https://github.com/european-summer-of-code/esoc2026#2026-project-list).
 
 ### Application process
 
 Applicants need to do *two things*:
 
-* **register for ESoC** through the [ESoC applicant registration form](https://forms.office.com/e/ArWLD0DqVv)
-* **follow any additional "how to apply" steps from the project card** of your preferred projects
-    * The project card may require you to fill out a second form, or complete an additional task
-    * The project card may also simply say that filling out the ESoC form suffices (as long as you mention the project)
+* **Register for ESoC** through the [ESoC applicant registration form](https://forms.office.com/e/ArWLD0DqVv).
+* **Follow any additional "how to apply" steps from the project card** of your preferred projects.
+    * The project card may require you to fill out a second form, or complete an additional task.
+    * The project card may also simply say that filling out the ESoC form suffices (as long as you mention the project).
     * While there is no limit in the number of projects you can apply for (or penalty), we recommend to focus on at most 3. Applying to too many projects will reduce your time per application and impact application quality.
 
 The deadline for completing *both* ESoC application form, and the project specific application steps,
@@ -158,7 +158,7 @@ by the project application deadline. The project application deadline varies by 
 #### FAQs and recommendations
 
 * Please ensure your submitted e-mail address is correct. Letters will be sent to this e-mail address.
-* Please use the same name and e-mail for any fields and forms throughout the process
+* Please use the same name and e-mail for any fields and forms throughout the process.
 * Ensure to note down relevant date periods in advance, and ensure to check your e-mail in those periods.
 * In case of submitted forms, most forms allow you to update the submission up until the deadline.
 * If this is not the case, simply submit another application under the same name. The last submission received before the deadline for a given project counts.
@@ -177,13 +177,13 @@ This can be:
 * acceptance to one or multiple projects. This means you are offered a slot.
 * waitlist status for one or multiple projects. This means you may be offered the slot if higher ranked applicants withdraw.
     * In this case a follow-up letter with acceptance or rejection will be sent at a later time.
-* rejection from one or multiple projects
+* rejection from one or multiple projects.
 
 The letter will be sent to the e-mail address you registered with.
 
 In case of acceptance, you will need to reply to the letter within 1 week of receipt.
 
-Please note: once you accept the offer from a project, any pending applications of yours to other projects in 2026 are automatically withdrawn, including those from later batches where the outcome may not yet be clear, or projects where you are on the waitlist.
+Please note: Once you accept the offer from a project, any pending applications of yours to other projects in 2026 are automatically withdrawn, including those from later batches where the outcome may not yet be clear, or projects where you are on the waitlist.
 
 ### Programme setup
 
@@ -191,12 +191,12 @@ European Summer of Code is a paid stipend programme.
 
 * ESoC stipend holder participate in onboarding events, regular stand-ups and mentoring throughout the period
   collaboration is virtual, via GitHub and Discord. Some partner organisations may optionally offer hybrid or in-person collaboration.
-* full time dedication to the stipend project is expected throughout the mid-year period (12 calendar weeks), excluding 5 working days of pause
-* flexible time arrangement are possible, at discretion of partner organisations - but 3 months continuous full time availability is normally expected
-* if not stated otherwise, projects are accompanied by a pro-rata based on a flat stipend of 4.800 (four thousand and eight hundred) Euro for 3 months full-time equivalent. Disbursement is via stipend through the ESoC hub.
-* projects may offer additional unpaid mentoring slots at their discretion.
-* participation does not constitute formal employment, nor are there delivery expectations.
-* applied projects (only those marked explicitly as "applied projects") may require signing a data sharing agreement. In this case, the agreement will be shared and can be reviewed by candidates before accepting the stipend.
+* Full time dedication to the stipend project is expected throughout the mid-year period (12 calendar weeks), excluding 5 working days of pause.
+* Flexible time arrangement are possible, at discretion of partner organisations - but 3 months continuous full time availability is normally expected.
+* If not stated otherwise, projects are accompanied by a pro-rata based on a flat stipend of 4,800 (four thousand and eight hundred) Euro for 3 months full-time equivalent. Disbursement is via stipend through the ESoC hub.
+* Projects may offer additional unpaid mentoring slots at their discretion.
+* Participation does not constitute formal employment, nor are there delivery expectations.
+* Applied projects (only those marked explicitly as "applied projects") may require signing a data sharing agreement. In this case, the agreement will be shared and can be reviewed by candidates before accepting the stipend.
 
 
 ## Project and sponsor guide
@@ -204,7 +204,7 @@ European Summer of Code is a paid stipend programme.
 ### Onboarding process
 
 * Private and public sector organisations wishing to host a project should submit a [project sponsor form](https://forms.office.com/e/0brWFKNrg7).
-* open source projects should submit an [open source project form](https://forms.office.com/e/SYZhwAUShs). 
+* Open source projects should submit an [open source project form](https://forms.office.com/e/SYZhwAUShs). 
 
 One of our hubs will be in touch shortly after submission, for review.
 In case of positive decision, we will work with you to prepare your project for release or onboarding.
@@ -215,7 +215,7 @@ Finalization for sponsored projects requires:
 
 * choosing a funding model:
     * option A: donation for stipend. This is easiest, with low contractual complexity: you donate to a hub, and the hub contracts with the participant. The "stipend" requires that a significant portion (but not all) of the outputs are in the open domain, e.g., contributions to an open source project or a research report.
-    * option B: paid internship. You can use your own contract template, in this case the hub will only act as matchmaker, and you will diractly contract with applicants and manage any tax and visa requirements.
+    * option B: paid internship. You can use your own contract template, in this case the hub will only act as matchmaker, and you will directly contract with applicants and manage any tax and visa requirements.
 
 (this information queried via the [project sponsor form](https://forms.office.com/e/0brWFKNrg7))
 
@@ -234,9 +234,9 @@ Open source projects should let us know via the form what they are looking for:
 
 Open source project should:
 
-* create a list with development projects
-* ensure that mentors are available
-* communicate their capacity for stipend slots and mentored slots
+* create a list with development projects.
+* ensure that mentors are available.
+* communicate their capacity for stipend slots and mentored slots.
 
 (this information queried via the [open source project form](https://forms.office.com/e/SYZhwAUShs))
 
