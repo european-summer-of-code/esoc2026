@@ -15,7 +15,7 @@ Projects from previous years: [2025](https://github.com/european-summer-of-code/
 * **2026-04-01: Batch 2 projects released!**
 * **2026-03-18: Batch 2 release moved to April 1.**
 * **2026-02-18: Batch 1 projects released!**
-* **2026-01-05: Applicant Guide, Sponsor Guide 2026 published**
+* **2026-01-05: Applicant Guide, Sponsor Guide 2026 published**.
 
 ## Table of contents
 
@@ -46,17 +46,17 @@ and applicants to work on open source directly in an applied context.
 
 ### How does ESoC work?
 
-* participants apply for projects with open source libraries or applied partners
-* public and private sector sponsors submit projects
-* open source projects apply for support
-* hubs throughout Europe carry out the matching process
+* Participants apply for projects with open source libraries or applied partners.
+* Public and private sector sponsors submit projects.
+* Open source projects apply for support.
+* Hubs throughout Europe carry out the matching process.
 
 ### ESoC Hubs
 
 ESoC is organized in a decentral and distributed fashion, by hubs.
 Current hubs are:
 
-* France: probabl - the scikit-learn company
+* France: Probabl - the scikit-learn company
 * Germany: German Center for Open Source AI
 * Italy: Fondazione Bruno Kessler
 
@@ -111,10 +111,10 @@ Timelines for the two batches are below.
 
 The event will feature:
 
-* general information on the programme
-* applicant guide and Q&A
-* organization and sponsor guide and Q&A
-* advice from previous year's mentors and successful applicants
+* general information on the programme.
+* applicant guide and Q&A.
+* organization and sponsor guide and Q&A.
+* advice from previous year's mentors and successful applicants.
 
 Location: [AIoD discord, events channel](https://discord.gg/A7YDRyvqYE)
 
