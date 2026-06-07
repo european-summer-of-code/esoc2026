@@ -1,4 +1,4 @@
-The project sponsor CLAAS - a major European manufactorer of agricultural macinery - has collected a unique dataset of foreign object events. Mutliple state of the art sensors are included (e.g. vibration, acoustics and mechanics) and measured with millisecond granularity.
+The project sponsor CLAAS - a major European manufactorer of agricultural machinery - has collected a unique dataset of foreign object events. Mutliple state of the art sensors are included (e.g. vibration, acoustics and mechanics) and measured with millisecond granularity.
 
 The dataset contains more than a thousand foreign object events recorded under real-world field operating conditions.
 
